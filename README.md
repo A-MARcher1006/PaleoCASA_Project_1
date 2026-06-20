@@ -1,4 +1,4 @@
-# A Laboratory for Tracing SSA–EWAIS Teleconnections via EPEs
+# PaleoCASA: A Framework for Investigating SSA–EWAIS Teleconnections via EPEs
 
 This repository contains the scripts used in the study:
 
