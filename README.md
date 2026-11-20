@@ -2,13 +2,13 @@
 
 This repository contains the scripts used in the study:
 
-*"Extreme Precipitation Events at Pine Island Glacier Linked to Temperature Variability in Southern South America"*
+*"Extreme precipitation events in the Pine Island Glacier basin are linked to temperature variability in Southern South America"*
 
 ---
 
 # 1. Description
 
-This study investigates teleconnections between southern South America (SSA) and the eastern West Antarctic Ice Sheet (EWAIS) using ice-core-derived extreme precipitation event (EPE) windows.
+This study investigates teleconnections between southern South America (SSA) and the eastern West Antarctic Ice Sheet (EWAIS) using extreme precipitation event (EPE) windows derived from ERA5 precipitation at ice core locations.
 
 ---
 
